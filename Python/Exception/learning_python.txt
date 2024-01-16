@@ -1,0 +1,6 @@
+Python language is freely available at the official website and you can download it from the given download link below click on the Download Python keyword.
+Python has a large standard library that provides a rich set of modules and functions so you do not have to write your own code for every single thing.
+Python supports object-oriented language and concepts of classes, object encapsulation, etc.
+Python's syntax is really straightforward.
+Python is very easy to learn the language as compared to other languages like C, C#, Javascript, Java, etc.
+Python is a high-level programming language.
