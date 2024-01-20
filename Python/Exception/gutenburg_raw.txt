@@ -1,0 +1,43 @@
+This is a pattern I use throughout my studies. I’ll identify something that I need to improve on, such as
+how I get started, or how I handle a tool. Then I’ll devise an exercise that simply focuses on that. When I
+was learning to paint I struggled with going outside to paint trees. I sat down and looked at the problems,
+and the first thing I identified was I simply dragged too much stuff with me. I also kept all my things in
+random places around my apartment. I purchased a specific bag just for my painting supplies and kept
+that bag ready to go. When I wanted to paint outside I grabbed this bag and walked to one of a few
+places, rather than planning elaborate painting hikes. I practiced just grabbing my bag, walking to one of
+two places, setting up, doing a painting, then walking home until the process was smooth as silk. After
+that I watched Bob Ross to figure out how to paint trees because that guy can crank out some trees.
+
+Not everything you do is an inneficiency, so be careful not to eliminate something simply because it takes
+up time. There are little rituals and personal habits that can get your brain ready to work. The trick is to
+not eliminate those but to instead make them easier to do before you start working.
+You should also be getting a concept of time management during this first part of the book. Setting a
+time limit of 45 minutes will make it very clear that you have no idea how long you take to do something.
+With only 45 minutes you can’t waste 30 getting your vim windows just right and organizing the perfect
+directory structure then crafting a brand new algorithm for sorting. You have to be frugal in what you
+implement and in what order you do the work.
+A good way to tackle a project is to start with the simplest thing you can get up and running first. In the
+find example that was probably getting a file by a glob pattern. Someone with poor time management
+skills will immediately try to get the -exec argument working to prove they are an awesome coder, but
+-exec can’t work without -name and is much more difficult to implement. The way to decide is to tell
+yourself that you want something you can use when you’re done. If 45 minutes passes and you can use
+-exec but can’t get files into it then how can you use it? If the same time passes and you’ve got a way
+to list files matching a name then you’ve done it. You have something in 45 minutes.
+Keep working your list of blockers and evaluating how well you do with your start, but now start looking
+at time management. Strategize what you are going to implement so that if you ran out of time you’d
+have something you can use. They don’t have to be complete features, but two useable features is better
+than 10 that don’t work at all because you forgot the simplest thing they all need. Or worse, 10 that don’t
+work because you bounced around half-implementing all of them so none of them work.
+
+Remember, your body is a part of you, and the idea that your mind is all that matters is completely false.
+Treating your body like it’s just useless junk will make your brain work less efficiently and keep you from
+doing this work comfortably for a long period of time. I recommend you take time to do some kind of
+physical health–related activity as often as you can. That can be yoga, dance, walking, hiking, or going
+to the gym. Anything to keep your body healthy so your mind can work without interference.
+Think about it this way: If your body is hurt and constantly in discomfort, or weak from abuse, then your
+brain has to waste cycles on keeping track of it and telling you. If you can keep your body a well-oiled,
+maintained machine, then your brain doesn’t have to worry about it.
+Finally, if you are someone whose body doesn’t work like other people’s, then do the best you can.
+Nobody is telling you that you have to have my body to be a programmer. One of the great things about
+coding is anyone can do it even if their physical manifestation can’t do many other things. The point is
+don’t let programming make your situation worse. Stay healthy.
